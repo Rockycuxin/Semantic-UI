@@ -6,7 +6,7 @@
 
 [![CDNJS](https://img.shields.io/cdnjs/v/semantic-ui.svg)](https://cdnjs.com/libraries/semantic-ui/)
 
-[Semantic](http://www.semantic-ui.com) is a UI framework designed for theming.
+[Semantic](http://semantic-ui.com) is a UI framework designed for theming.
 
 Key Features
 * 50+ UI elements
@@ -112,3 +112,4 @@ If you'd like to start a conversation about Semantic feel free to e-mail me at [
 [![Flattr This](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=jlukic&url=https%3A%2F%2Fgithub.com%2Fjlukic%2FSemantic-UI)
 
 <a href="http://packagequality.com/#?package=semantic-ui"><img src="http://npm.packagequality.com/badge/semantic-ui.png"/></a>
+<a href="http://python.org"></a>
